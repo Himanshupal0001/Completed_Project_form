@@ -1,0 +1,24 @@
+.form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 5rem 0;
+}
+
+*,
+body,
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.paper {
+  width: 50vw;
+  height: 100%;
+}
+
+.tab-panel {
+  padding: 15px;
+  height: 50vh;
+}
